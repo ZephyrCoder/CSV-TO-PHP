@@ -23,4 +23,4 @@ This script allows you to import data from a CSV file into a MySQL database. It 
 
 ## License
 
-This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This script is licensed under the GNU GPL v3 License. See the [LICENSE](LICENSE) file for details.
